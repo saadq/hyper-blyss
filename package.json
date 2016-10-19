@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-material-spacegray",
-  "description": "Material Spacegray",
+  "description": "A port of Material Spacegray for hyper.",
   "version": "0.1.0",
   "scripts": {
     "test": "standard | snazzy"
