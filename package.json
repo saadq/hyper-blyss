@@ -1,0 +1,19 @@
+{
+  "name": "hyperterm-material-spacegray",
+  "description": "Material Spacegray",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "standard | snazzy"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyper",
+    "theme"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "devDependencies": {
+    "snazzy": "^5.0.0",
+    "standard": "^8.4.0"
+  }
+}
