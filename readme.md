@@ -6,7 +6,7 @@ A port of the Material Spacegray color scheme (originating from base16-ocean.dar
 
 ## Installation and Usage
 
-Add `"hyper-material-spacegray"` to your `plugins` fields in your `config` object in your `~/.hyper.js` file, and your terminal sh
+Add `"hyper-material-spacegray"` to your `plugins` fields in your `config` object in your `~/.hyper.js` file, and your terminal should automatically reload with theme changes.
 
 ## License
 MIT
