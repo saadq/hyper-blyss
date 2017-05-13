@@ -1,6 +1,10 @@
 {
   "name": "hyperterm-material-spacegray",
   "description": "A port of Material Spacegray for hyper.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saadq/hyperterm-material-spacegray.git"
+  },
   "version": "0.1.0",
   "scripts": {
     "test": "standard | snazzy"
