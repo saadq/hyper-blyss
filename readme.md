@@ -1,9 +1,18 @@
-# hyper-material-spacegray
-A port of the Material Spacegray color scheme (originating from base16-ocean.dark) for the `hyper` terminal.
-![](http://i.imgur.com/40Oxuae.png)
+# hyper-bliss
 
-## Usage
-Add `"hyperterm-material-spacegray"` to your `plugins` fields that is in `config` object in your `~/.hyper.js` file, and your terminal should automatically reload with theme changes.
+A port of the Bliss theme (originating from base16-ocean.dark) for the `hyper` terminal.
+![](https://i.imgur.com/c3IVrzb.png)
+
+## Installation
+
+You can install this theme by running:
+
+```bash
+$ hyper install hyper-bliss
+```
+
+Alternatively, you can manually update your `~/.hyper.js` file and add `'hyper-bliss'` to the `plugins` field.
 
 ## License
+
 MIT

@@ -1,23 +1,17 @@
 {
-  "name": "hyperterm-material-spacegray",
-  "description": "A port of Material Spacegray for hyper.",
+  "name": "hyper-bliss",
+  "description": "A port of the Bliss theme for Hyper.",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saadq/hyperterm-material-spacegray.git"
+    "url": "git+https://github.com/saadq/hyper-bliss.git"
   },
-  "version": "0.1.1",
-  "scripts": {
-    "test": "standard | snazzy"
-  },
-  "keywords": [
-    "hyperterm",
-    "hyper",
-    "theme"
-  ],
-  "license": "MIT",
+  "version": "0.1.0",
   "main": "index.js",
-  "devDependencies": {
-    "snazzy": "^5.0.0",
-    "standard": "^8.4.0"
-  }
+  "keywords": [
+    "bliss",
+    "hyper",
+    "hyperterm",
+    "spacegray"
+  ]
 }
