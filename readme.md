@@ -9,10 +9,10 @@ A port of the Bliss theme (originating from base16-ocean.dark) for the `hyper` t
 You can install this theme by running:
 
 ```bash
-$ hyper install hyper-bliss
+$ hyper install hyper-blyss
 ```
 
-Alternatively, you can manually update your `~/.hyper.js` file and add `'hyper-bliss'` to the `plugins` field.
+Alternatively, you can manually update your `~/.hyper.js` file and add `'hyper-blyss'` to the `plugins` field.
 
 ## Related Projects
 

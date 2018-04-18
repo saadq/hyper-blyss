@@ -1,15 +1,16 @@
 {
-  "name": "hyper-bliss",
+  "name": "hyper-blyss",
   "description": "A port of the Bliss theme for Hyper.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saadq/hyper-bliss.git"
+    "url": "git+https://github.com/saadq/hyper-blyss.git"
   },
   "version": "1.0.0",
   "main": "index.js",
   "keywords": [
     "bliss",
+    "blyss",
     "hyper",
     "hyperterm",
     "spacegray"
