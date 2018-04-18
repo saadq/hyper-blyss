@@ -1,4 +1,4 @@
-# hyper-bliss
+# hyper-blyss
 
 A port of the Bliss theme (originating from base16-ocean.dark) for the `hyper` terminal.
 
